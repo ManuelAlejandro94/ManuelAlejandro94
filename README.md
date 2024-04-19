@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Manuel Alvarez</h1>
 <h3 align="center">A passionate backend/frontend/fullstack developer from Mexico</h3>
 
-- 🔭 I’m currently working on [password-generator-mobile](https://github.com/ManuelAlejandro94/password-generator-mobile)
+- 🔭 I’m currently working on [password-generator-desktop](https://github.com/ManuelAlejandro94/password-generator-desktop)
 
 - 🌱 I’m currently learning **Cibersecurity and Flutter**
 
